@@ -1,0 +1,10 @@
+# Required libraries for the project to work
+requests        # To fetch web pages
+beautifulsoup4  # To parse and navigate HTML
+pandas          # To handle data and save it as CSV
+matplotlib      # To generate charts
+streamlit       # For the interactive web dashboard
+
+# Optional libraries for future improvements
+plotly          # For interactive charts and visualizations
+numpy           # For numerical operations and data manipulation
